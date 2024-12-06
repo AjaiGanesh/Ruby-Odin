@@ -1,0 +1,8 @@
+---
+- !ruby/object:Game
+  secret_key: willing
+  guesses: 5
+  key_clues: "-------"
+  guessed:
+  - a
+  - b
